@@ -7,7 +7,7 @@
 - ✊ Always believe that paying and harvesting are directly proportional
 - 👨🏻‍💻 I'm learning some great open source frameworks and source code , such as : 🎄SpringBoot, NodeJs, Python🎄.
 
-## Things that I execute in free time ⚡ 
+## Things i do in my free time ⚡ 
   - 🌱 In mean time:
     - While Coding, Listening Music and developing useful code.⭐️
     - Just loved to Explore new Tech Stacks.💻
