@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />
 
 - ☀️ I’m currently working with Java
-- 📫 How to reach me: [2285884335@qq.com](mailto:2285884335@qq.com)
+- 📫 How to reach me: [liganma@duck.com](mailto:liganma@duck.com)
 - ✊ Always believe that paying and harvesting are directly proportional
 - 👨🏻‍💻 I'm learning some great open source frameworks and source code , such as : 🎄SpringBoot, NodeJs, Python🎄.
 
