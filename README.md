@@ -3,9 +3,16 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" />
 
 - ☀️ I’m currently working with Java
-- 📫 How to reach me: [liganma@duck.com](mailto:liganma@duck.com)
 - ✊ Always believe that paying and harvesting are directly proportional
-- 👨🏻‍💻 I'm learning some great open source frameworks and source code , such as : 🎄SpringBoot, NodeJs, Python🎄.
+- 👨🏻‍💻 I'm learning some great open source frameworks and source code , such as : 🎄SpringBoot, NodeJs, Python🎄 aspiring developer with a passion for coding and problem-solving.
+- 💻 Currently, I'm exploring various programming languages and frameworks, with a focus on web development. 
+- 🌱 I'm a lifelong learner, always seeking new knowledge and skills to enhance my abilities. 
+- 🎓 I'm studying computer science and actively participating in coding competitions and hackathons. 
+- 🤝 I love collaborating with others and working on projects that have a positive impact. 
+- 📚 When I'm not coding, you can find me reading books, playing video games, or exploring nature. 
+- 📫 Feel free to connect with me and let's create something amazing together!
+- 📫 How to reach me: [liganma@duck.com](mailto:liganma@duck.com)
+
 
 ## Things i do in my free time ⚡ 
   - 🌱 In mean time:
